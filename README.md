@@ -13,7 +13,7 @@ This project is a modern and interactive header design for an electric vehicles 
 - **Fade Animations**: Smooth entry and exit effects for images to enhance interactivity.
 
 ## Screenshots
-_(Add screenshots to demonstrate the website design and functionality)_
+
 
 ![Screenshot 1](./screenshots/screenshot1.png)
 ![Screenshot 2](./screenshots/screenshot2.png)
