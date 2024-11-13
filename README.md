@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-
-# evcars-react-header
+# EV Cars React Header
 
 # An interactive electric cars website header built with React.js. Includes dynamic animations, a background video with playback controls, and a full-screen image slider with fade transitions.
 
-# EV Cars React Header
-
-This project is a modern and interactive header design for an electric vehicles website. It's built using **React.js** and showcases a variety of features to enhance user experience.
 
 ## Features
 
@@ -25,5 +20,4 @@ This project is a modern and interactive header design for an electric vehicles 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/evcars-react-header.git
-   >>>>>>> e80c6fe72203340e3ea1652da08e4ae6825c39c8
-   ```
+   
